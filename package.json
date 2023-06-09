@@ -4,7 +4,7 @@
   "author": "Pratik",
   "private": true,
   "scripts": {
-    "start": "nodemon ./bin/www",
+    "start": "node ./bin/www",
     "dev": "node ./bin/www"
   },
   "dependencies": {
